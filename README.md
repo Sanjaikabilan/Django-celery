@@ -1,4 +1,4 @@
 # Django-celery
 Automated tasks using Django and celery
-<h5> <strong> Coming soon! </strong> </h5>
+<h1> <strong> Coming soon! </strong> </h>
 <button type="submit"> Waiting!! </button>
